@@ -34,6 +34,15 @@
     </item>
     
     <item>
+      <title>Hacking&#34;</title>
+      <link>https://nickapic.github.io/tags/hacking/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nickapic.github.io/tags/hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nessus</title>
       <link>https://nickapic.github.io/tags/nessus/</link>
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
@@ -79,6 +88,15 @@
     </item>
     
     <item>
+      <title>SQLi</title>
+      <link>https://nickapic.github.io/tags/sqli/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nickapic.github.io/tags/sqli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tryhackme</title>
       <link>https://nickapic.github.io/tags/tryhackme/</link>
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
@@ -97,11 +115,38 @@
     </item>
     
     <item>
+      <title>Web</title>
+      <link>https://nickapic.github.io/tags/web/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nickapic.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Web Apps</title>
       <link>https://nickapic.github.io/tags/web-apps/</link>
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nickapic.github.io/tags/web-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Security</title>
+      <link>https://nickapic.github.io/tags/web-security/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nickapic.github.io/tags/web-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XSS</title>
+      <link>https://nickapic.github.io/tags/xss/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nickapic.github.io/tags/xss/</guid>
       <description></description>
     </item>
     
