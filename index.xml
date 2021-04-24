@@ -7,21 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nickapic.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cross Side Scripting Attacks</title>
+      <link>https://nickapic.github.io/posts/crosssidescripting/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nickapic.github.io/posts/crosssidescripting/</guid>
+      <description>This is a article to teach people on a very basic level about how to use Nessus and list some resources to learn and practice with this tool.</description>
+    </item>
+    
+    <item>
       <title>Git Hacking</title>
       <link>https://nickapic.github.io/posts/githacking/</link>
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nickapic.github.io/posts/githacking/</guid>
       <description>This is a article to help people with how to ennumerate and exploit when you find public repostries.</description>
-    </item>
-    
-    <item>
-      <title>Nessus</title>
-      <link>https://nickapic.github.io/posts/crosssidescripting/</link>
-      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nickapic.github.io/posts/crosssidescripting/</guid>
-      <description>This is a article to teach people on a very basic level about how to use Nessus and list some resources to learn and practice with this tool.</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@
     </item>
     
     <item>
-      <title>Nessus</title>
+      <title>Networking Basics</title>
       <link>https://nickapic.github.io/posts/networking/</link>
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
       

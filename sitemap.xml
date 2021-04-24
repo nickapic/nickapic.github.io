@@ -5,6 +5,9 @@
     <loc>https://nickapic.github.io/categories/begginers/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nickapic.github.io/categories/beginners/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nickapic.github.io/categories/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,6 +15,9 @@
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nickapic.github.io/series/cross-side-scripting/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nickapic.github.io/posts/crosssidescripting/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nickapic.github.io/tags/ecppt/</loc>
@@ -35,16 +41,16 @@
     <loc>https://nickapic.github.io/tags/nessus/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nickapic.github.io/posts/crosssidescripting/</loc>
-    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nickapic.github.io/posts/nessus/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nickapic.github.io/posts/networking/</loc>
+    <loc>https://nickapic.github.io/tags/network-security/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nickapic.github.io/tags/network-security/</loc>
+    <loc>https://nickapic.github.io/tags/networking/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nickapic.github.io/posts/networking/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nickapic.github.io/categories/offensive-hacking/</loc>
@@ -54,6 +60,9 @@
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nickapic.github.io/tags/oscp/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nickapic.github.io/tags/osi/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nickapic.github.io/posts/</loc>
