@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nickapic.github.io/sitemap.xml

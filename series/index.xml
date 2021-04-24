@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Class3E Resource Library</title>
+    <link>https://nickapic.github.io/series/</link>
+    <description>Recent content in Series on Class3E Resource Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nickapic.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formal Documentation</title>
+      <link>https://nickapic.github.io/series/formal-documentation/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nickapic.github.io/series/formal-documentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
