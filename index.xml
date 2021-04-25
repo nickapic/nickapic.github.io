@@ -39,7 +39,7 @@
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nickapic.github.io/posts/networking/</guid>
-      <description>This is a article to teach people on a very basic level about how to use Nessus and list some resources to learn and practice with this tool.</description>
+      <description>This is a article to teach people on a very basic level about Networking and going through OSI model.</description>
     </item>
     
     <item>
@@ -52,12 +52,12 @@
     </item>
     
     <item>
-      <title>SQL Injections</title>
+      <title>SQL Injections Level-1</title>
       <link>https://nickapic.github.io/posts/sql-injection/</link>
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nickapic.github.io/posts/sql-injection/</guid>
-      <description>This is a article to teach people on a very basic level about how to use Nessus and list some resources to learn and practice with this tool.</description>
+      <description>This is a article to teach people on a very basic level about how to do SQLi, basic SQL syntax, common attack vectors and also how to fix these common attacks and make your apps more secure.</description>
     </item>
     
     

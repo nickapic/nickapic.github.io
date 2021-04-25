@@ -30,7 +30,7 @@
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nickapic.github.io/posts/networking/</guid>
-      <description>This is a article to teach people on a very basic level about how to use Nessus and list some resources to learn and practice with this tool.</description>
+      <description>This is a article to teach people on a very basic level about Networking and going through OSI model.</description>
     </item>
     
     <item>
@@ -40,15 +40,6 @@
       
       <guid>https://nickapic.github.io/posts/reportwritting/</guid>
       <description>This is a article to help people write professional reports and provide resources where they can pracitce writting them and also learn about how to structure them.</description>
-    </item>
-    
-    <item>
-      <title>SQL Injections</title>
-      <link>https://nickapic.github.io/posts/sql-injection/</link>
-      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nickapic.github.io/posts/sql-injection/</guid>
-      <description>This is a article to teach people on a very basic level about how to use Nessus and list some resources to learn and practice with this tool.</description>
     </item>
     
   </channel>

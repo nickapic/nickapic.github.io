@@ -27,7 +27,7 @@
 <meta property="og:url" content="https://nickapic.github.io/posts/githacking/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2021-04-24T00:00:00&#43;00:00" />
 <meta property="article:modified_time" content="2021-04-24T00:00:00&#43;00:00" />
-<meta property="og:see_also" content="https://nickapic.github.io/posts/nessus/" /><meta property="og:see_also" content="https://nickapic.github.io/posts/networking/" /><meta property="og:see_also" content="https://nickapic.github.io/posts/reportwritting/" /><meta property="og:see_also" content="https://nickapic.github.io/posts/sql-injection/" />
+<meta property="og:see_also" content="https://nickapic.github.io/posts/nessus/" /><meta property="og:see_also" content="https://nickapic.github.io/posts/networking/" /><meta property="og:see_also" content="https://nickapic.github.io/posts/reportwritting/" />
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Git Hacking"/>
@@ -64,8 +64,8 @@
   "keywords": [
     "Git", "Github", "Tryhackme"
   ],
-  "articleBody": "So to enumerate over .git folder and also to dump them to your desktop and stuff we use tools from this repository GitTools and we can just git clone this repositry and use all the tool and the guides for them are given in the repo.\nBut in general we can use gitfinder tool to find websites with their .git repository available to the public. It identifies websites with publicly accessible .git repositories. It checks if the .git/HEAD file contains refs/heads\nThe gitdumper tool can be used to download as much as possible from the found .git repository from webservers which do not have directory listing enabled. This is what we will use in our case to solve this box.\nThe extractor is script to extract commits and their content from a broken repository.\nThis script tries to recover incomplete git repositories:\n Iterate through all commit-objects of a repository Try to restore the contents of the commit Commits are not sorted by date  Soo lets start using our gitdumper tool to dump the publicly accessible .git directory and to use this command here we can use :\n./gitdumper.sh /.git . and this will dump the private git directory for us in the current directory and also this is gonna be hidden as its the git directory so we can use all the git commands on it and we can traverse into the directory and use commands like git log and see all the commits done and lets scroll down to the bottom and we find the Initial Commit and use its SHA1 hash\nand now we can use this SHA1 hashes next to commit we wanna see and we can use the command\ngit show 2f423697bf81fe5956684f66fb6fc6596a1903cc and we can show the whole commit and all the files in that commit there\nand there you go we can see the password which is the flag here and again if you find this as a bug bounty you can report and its gonna be a pretty good payout for that because this will let us track all the code and all sensitive information in the commits if there ever was something.\n",
-  "wordCount" : "359",
+  "articleBody": "So to enumerate over .git folder and also to dump them to your desktop and stuff we use tools from this repository GitTools and we can just git clone this repositry and use all the tool and the guides for them are given in the repo.\nBut in general we can use gitfinder tool to find websites with their .git repository available to the public. It identifies websites with publicly accessible .git repositories. It checks if the .git/HEAD file contains refs/heads\nThe gitdumper tool can be used to download as much as possible from the found .git repository from webservers which do not have directory listing enabled. This is what we will use in our case to solve this box.\nThe extractor is script to extract commits and their content from a broken repository.\nThis script tries to recover incomplete git repositories:\n Iterate through all commit-objects of a repository Try to restore the contents of the commit Commits are not sorted by date  Soo lets start using our gitdumper tool to dump the publicly accessible .git directory and to use this command here we can use :\n./gitdumper.sh /.git . and this will dump the private git directory for us in the current directory and also this is gonna be hidden as its the git directory so we can use all the git commands on it and we can traverse into the directory and use commands like git log and see all the commits done and lets scroll down to the bottom and we find the Initial Commit and use its SHA1 hash\nand now we can use this SHA1 hashes next to commit we wanna see and we can use the command\ngit show 2f423697bf81fe5956684f66fb6fc6596a1903cc and we can show the whole commit and all the files in that commit there\nand there you go we can see the password which is the flag here and again if you find this as a bug bounty you can report and its gonna be a pretty good payout for that because this will let us track all the code and all sensitive information in the commits if there ever was something.\nResources : ",
+  "wordCount" : "361",
   "inLanguage": "en",
   "datePublished": "2021-04-24T00:00:00Z",
   "dateModified": "2021-04-24T00:00:00Z",
@@ -207,7 +207,11 @@
         <summary accesskey="c" title="(Alt + C)">
             <div class="details">Table of Contents</div>
         </summary>
-        <div class="inner">
+        <div class="inner"><ul>
+                <li>
+                    <a href="#resources-" aria-label="Resources :">Resources :</a>
+                </li>
+            </ul>
         </div>
     </details>
 </div>
@@ -233,6 +237,7 @@
 <p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd2df77c-6d76-42ad-80cc-8b5d63977b27/Untitled.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd2df77c-6d76-42ad-80cc-8b5d63977b27/Untitled.png"  />
 </p>
 <p>and there you go we can see the password which is the flag here and again if you find this as a bug bounty you can report and its gonna be a pretty good payout for that because this will let us track all the code and all sensitive information in the commits if there ever was something.</p>
+<h2 id="resources-">Resources :<a hidden class="anchor" aria-hidden="true" href="#resources-">#</a></h2>
 
 </div>
   <footer class="post-footer">
